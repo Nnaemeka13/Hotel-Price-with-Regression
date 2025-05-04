@@ -1,2 +1,2 @@
 # Hotel Prices-with-Regression
-Project completed with regression model which is classified under supervised machine learning.
+A hotel price data was analysed with regression model was performed on this, which was used to check the latest price prediction.
